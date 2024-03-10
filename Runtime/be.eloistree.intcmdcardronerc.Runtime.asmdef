@@ -1,0 +1,18 @@
+{
+    "name": "be.eloistree.intcmdcardronerc",
+    "rootNamespace": "",
+    "references": [
+        "be.eloistree.intcmd",
+        "Unity.Networking.Transport",
+        "endel.nativewebsocket"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

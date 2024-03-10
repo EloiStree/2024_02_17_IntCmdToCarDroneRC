@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.intcmdcardronerc",                              
+  "displayName": "Integer Command to Car Drone Input",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Turn integer command to remote control input for a drone and a car",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_02_17_IntCmdToCarDroneRC.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
