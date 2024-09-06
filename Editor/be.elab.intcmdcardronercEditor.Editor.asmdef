@@ -1,7 +1,7 @@
 
 {                                                                   
-            "name": "be.eloistree.intcmdcardronercEditor",          
-    "references": ["be.eloistree.intcmdcardronerc","be.eloistree.indexintcmd","be.eloistree.intcmd"
+            "name": "be.elab.intcmdcardronercEditor",          
+    "references": ["be.elab.intcmdcardronerc","be.elab.indexintcmd","be.elab.intcmd"
 ],                                                              
     "optionalUnityReferences": [],                                  
     "includePlatforms": [                                           

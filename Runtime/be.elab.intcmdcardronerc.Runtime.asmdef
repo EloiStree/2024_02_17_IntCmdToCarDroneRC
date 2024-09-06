@@ -1,10 +1,11 @@
 {
-    "name": "be.eloistree.intcmdcardronerc",
+    "name": "be.elab.intcmdcardronerc",
     "rootNamespace": "",
     "references": [
         "be.eloistree.intcmd",
         "Unity.Networking.Transport",
-        "endel.nativewebsocket"
+        "endel.nativewebsocket",
+        "be.elab.intcmd"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
